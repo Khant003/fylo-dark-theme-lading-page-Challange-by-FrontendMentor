@@ -74,7 +74,7 @@ body .hero-section {
   width: 100vw;
   overflow-x: hidden;
   margin-top: -1rem;
-  background: url("/images/bg-curvy-mobile.svg") bottom/100% auto no-repeat, var(--intro-signUp-bg);
+  background: url("../images/bg-curvy-mobile.svg") bottom/100% auto no-repeat, var(--intro-signUp-bg);
 }
 body .hero-section .hero-section-container {
   display: flex;
